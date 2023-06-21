@@ -1,0 +1,14 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/cloud_firestore-3.5.1/
+cloud_firestore_web=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/cloud_firestore_web-2.8.10/
+firebase_auth=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/firebase_auth-3.11.2/
+firebase_auth_web=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/firebase_auth_web-4.6.1/
+firebase_core=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/firebase_core-1.21.1/
+firebase_core_web=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/firebase_core_web-1.7.3/
+firebase_storage=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/firebase_storage-10.3.11/
+firebase_storage_web=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/firebase_storage_web-3.3.9/
+flutter_plugin_android_lifecycle=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/flutter_plugin_android_lifecycle-2.0.9/
+image_picker=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/image_picker-0.8.7+4/
+image_picker_android=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/image_picker_android-0.8.6+7/
+image_picker_for_web=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/image_picker_for_web-2.1.12/
+image_picker_ios=/Users/shreshthvatsalsharma/.pub-cache/hosted/pub.dev/image_picker_ios-0.8.7+3/
